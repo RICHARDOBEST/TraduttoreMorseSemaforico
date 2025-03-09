@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.example.traduttoremorsesemaforico.android.androidApp-debug-46:/mipmap-mdpi_scout_round.webp.flat",
+        "source": "com.example.traduttoremorsesemaforico.android.androidApp-main-48:/mipmap-mdpi/scout_round.webp"
+    },
+    {
+        "merged": "com.example.traduttoremorsesemaforico.android.androidApp-debug-46:/mipmap-xxhdpi_scout.webp.flat",
+        "source": "com.example.traduttoremorsesemaforico.android.androidApp-main-48:/mipmap-xxhdpi/scout.webp"
+    },
+    {
+        "merged": "com.example.traduttoremorsesemaforico.android.androidApp-debug-46:/mipmap-xxhdpi_scout_round.webp.flat",
+        "source": "com.example.traduttoremorsesemaforico.android.androidApp-main-48:/mipmap-xxhdpi/scout_round.webp"
+    },
+    {
+        "merged": "com.example.traduttoremorsesemaforico.android.androidApp-debug-46:/mipmap-mdpi_scout_foreground.webp.flat",
+        "source": "com.example.traduttoremorsesemaforico.android.androidApp-main-48:/mipmap-mdpi/scout_foreground.webp"
+    },
+    {
+        "merged": "com.example.traduttoremorsesemaforico.android.androidApp-debug-46:/mipmap-hdpi_scout.webp.flat",
+        "source": "com.example.traduttoremorsesemaforico.android.androidApp-main-48:/mipmap-hdpi/scout.webp"
+    },
+    {
+        "merged": "com.example.traduttoremorsesemaforico.android.androidApp-debug-46:/mipmap-xhdpi_scout.webp.flat",
+        "source": "com.example.traduttoremorsesemaforico.android.androidApp-main-48:/mipmap-xhdpi/scout.webp"
+    },
+    {
+        "merged": "com.example.traduttoremorsesemaforico.android.androidApp-debug-46:/mipmap-xhdpi_scout_round.webp.flat",
+        "source": "com.example.traduttoremorsesemaforico.android.androidApp-main-48:/mipmap-xhdpi/scout_round.webp"
+    },
+    {
+        "merged": "com.example.traduttoremorsesemaforico.android.androidApp-debug-46:/mipmap-xxxhdpi_scout_foreground.webp.flat",
+        "source": "com.example.traduttoremorsesemaforico.android.androidApp-main-48:/mipmap-xxxhdpi/scout_foreground.webp"
+    },
+    {
+        "merged": "com.example.traduttoremorsesemaforico.android.androidApp-debug-46:/mipmap-hdpi_scout_round.webp.flat",
+        "source": "com.example.traduttoremorsesemaforico.android.androidApp-main-48:/mipmap-hdpi/scout_round.webp"
+    },
+    {
+        "merged": "com.example.traduttoremorsesemaforico.android.androidApp-debug-46:/mipmap-hdpi_scout_foreground.webp.flat",
+        "source": "com.example.traduttoremorsesemaforico.android.androidApp-main-48:/mipmap-hdpi/scout_foreground.webp"
+    },
+    {
+        "merged": "com.example.traduttoremorsesemaforico.android.androidApp-debug-46:/mipmap-xhdpi_scout_foreground.webp.flat",
+        "source": "com.example.traduttoremorsesemaforico.android.androidApp-main-48:/mipmap-xhdpi/scout_foreground.webp"
+    },
+    {
+        "merged": "com.example.traduttoremorsesemaforico.android.androidApp-debug-46:/drawable_scout_background.xml.flat",
+        "source": "com.example.traduttoremorsesemaforico.android.androidApp-main-48:/drawable/scout_background.xml"
+    },
+    {
+        "merged": "com.example.traduttoremorsesemaforico.android.androidApp-debug-46:/mipmap-xxxhdpi_scout.webp.flat",
+        "source": "com.example.traduttoremorsesemaforico.android.androidApp-main-48:/mipmap-xxxhdpi/scout.webp"
+    },
+    {
+        "merged": "com.example.traduttoremorsesemaforico.android.androidApp-debug-46:/mipmap-xxhdpi_scout_foreground.webp.flat",
+        "source": "com.example.traduttoremorsesemaforico.android.androidApp-main-48:/mipmap-xxhdpi/scout_foreground.webp"
+    },
+    {
+        "merged": "com.example.traduttoremorsesemaforico.android.androidApp-debug-46:/mipmap-xxxhdpi_scout_round.webp.flat",
+        "source": "com.example.traduttoremorsesemaforico.android.androidApp-main-48:/mipmap-xxxhdpi/scout_round.webp"
+    },
+    {
+        "merged": "com.example.traduttoremorsesemaforico.android.androidApp-debug-46:/mipmap-mdpi_scout.webp.flat",
+        "source": "com.example.traduttoremorsesemaforico.android.androidApp-main-48:/mipmap-mdpi/scout.webp"
+    },
+    {
+        "merged": "com.example.traduttoremorsesemaforico.android.androidApp-debug-46:/mipmap-anydpi-v26_scout_round.xml.flat",
+        "source": "com.example.traduttoremorsesemaforico.android.androidApp-main-48:/mipmap-anydpi-v26/scout_round.xml"
+    },
+    {
+        "merged": "com.example.traduttoremorsesemaforico.android.androidApp-debug-46:/mipmap-anydpi-v26_scout.xml.flat",
+        "source": "com.example.traduttoremorsesemaforico.android.androidApp-main-48:/mipmap-anydpi-v26/scout.xml"
+    }
+]

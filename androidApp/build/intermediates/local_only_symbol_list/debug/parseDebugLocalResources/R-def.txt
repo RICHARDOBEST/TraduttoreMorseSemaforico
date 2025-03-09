@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+drawable scout_background
+mipmap scout
+mipmap scout_foreground
+mipmap scout_round
+string app_name
+style AppTheme

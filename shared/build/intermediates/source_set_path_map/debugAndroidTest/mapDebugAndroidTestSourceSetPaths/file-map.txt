@@ -1,0 +1,5 @@
+com.example.traduttoremorsesemaforico.test.shared-androidTest-0 C:\Users\Utente\AndroidStudioProjects\TraduttoreMorseSemaforico\shared\build\generated\res\resValues\androidTest\debug
+com.example.traduttoremorsesemaforico.test.shared-mergeDebugAndroidTestResources-1 C:\Users\Utente\AndroidStudioProjects\TraduttoreMorseSemaforico\shared\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.traduttoremorsesemaforico.test.shared-mergeDebugAndroidTestResources-2 C:\Users\Utente\AndroidStudioProjects\TraduttoreMorseSemaforico\shared\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.traduttoremorsesemaforico.test.shared-debugAndroidTest-3 C:\Users\Utente\AndroidStudioProjects\TraduttoreMorseSemaforico\shared\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.example.traduttoremorsesemaforico.test.shared-debug-4 C:\Users\Utente\AndroidStudioProjects\TraduttoreMorseSemaforico\shared\build\intermediates\packaged_res\debug\packageDebugResources
