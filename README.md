@@ -1,11 +1,11 @@
-# TraduttoreMorseSemaforico
-Progetto di un traduttore da alfabeto a morse e semaforico per attività scout
 # Traduttore Morse e Semaforico
 
-Benvenuto nel progetto **Traduttore Morse e Semaforico**, una semplice ma potente applicazione in grado di convertire testi da e verso **Codice Morse** e **Codice Semaforico**. Il progetto è disponibile in due versioni:
+Benvenuto nel progetto **Traduttore Morse e Semaforico**, una semplice ma potente applicazione in grado di convertire testi in **Codice Morse** e **Codice Semaforico** per attività scout. Il progetto è disponibile in due versioni:
 
 - **Java (Swing GUI)** nel branch `main`
 - **Kotlin Multiplatform Mobile (KMM)** per Android e iOS nel branch `master`
+
+Nel branch main ci sono anche i file eseguibili in .exe, .jar e .apk
 
 ---
 
